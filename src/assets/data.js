@@ -1,0 +1,15 @@
+export const dummyData = [
+  { id: 1, nama: "Laptop ASUS", kategori: "Elektronik", jumlah: 10, lokasi: "Gudang A" },
+  { id: 2, nama: "Kursi Kayu", kategori: "Furniture", jumlah: 25, lokasi: "Ruang Meeting" },
+  { id: 3, nama: "Proyektor Epson", kategori: "Elektronik", jumlah: 5, lokasi: "Ruang Presentasi" },
+  { id: 4, nama: "Meja Kerja", kategori: "Furniture", jumlah: 12, lokasi: "Ruang Staff" },
+  { id: 5, nama: "Printer Canon", kategori: "Elektronik", jumlah: 4, lokasi: "Gudang B" },
+  { id: 6, nama: "Papan Tulis", kategori: "Peralatan", jumlah: 7, lokasi: "Ruang Kelas" },
+  { id: 7, nama: "Proyektor Epson", kategori: "Elektronik", jumlah: 2, lokasi: "Gudang B" },
+  { id: 8, nama: "Meja Belajar", kategori: "Furniture", jumlah: 10, lokasi: "Gudang A" },
+  { id: 9, nama: "Kursi Kantor", kategori: "Furniture", jumlah: 15, lokasi: "Gudang C" },
+  { id: 10, nama: "Printer Canon", kategori: "Elektronik", jumlah: 3, lokasi: "Gudang B" },
+  { id: 11, nama: "Whiteboard", kategori: "Alat Tulis", jumlah: 7, lokasi: "Gudang A" },
+  { id: 12, nama: "Speaker JBL", kategori: "Elektronik", jumlah: 4, lokasi: "Gudang C" },
+  { id: 13, nama: "Lemari Arsip", kategori: "Furniture", jumlah: 6, lokasi: "Gudang A" },
+];
