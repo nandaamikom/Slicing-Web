@@ -5,7 +5,7 @@ import Users from './pages/Users';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen">
+      <div>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/users" element={<Users />} />
