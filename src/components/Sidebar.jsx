@@ -9,8 +9,8 @@ import { Link } from "react-router-dom";
 export default function SidebarComponent() {
   return (
     <Sidebar aria-label="Sidebar" >
-      <SidebarItems className="mt-6">
-        <SidebarItemGroup className="space-y-4">
+      <SidebarItems className="mt-8">
+        <SidebarItemGroup className="space-y-6">
           <SidebarItem as={Link} to="/" icon={HiChartPie}>
             Dashboard
           </SidebarItem>

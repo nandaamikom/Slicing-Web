@@ -1,5 +1,5 @@
 import SidebarComponent from "../components/Sidebar";   
-import NavbarComponent from "../components/navbar";
+import NavbarComponent from "../components/Navbar";
 import CarouselComponent from "../components/Carousel";
 import CardComponent from "../components/Card"; 
 import TableComponent from "../components/Table";
